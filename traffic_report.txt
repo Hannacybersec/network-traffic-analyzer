@@ -1,0 +1,15 @@
+Network Traffic Analyzer Report
+========================================
+
+Total IP packets: 10
+
+Protocol Distribution:
+  TCP: 10
+
+Top Source IPs:
+  127.0.0.1: 10 packets
+
+Top Destination IPs:
+  127.0.0.1: 10 packets
+
+Analysis completed: 2026-10-22 20:31:17.638365
